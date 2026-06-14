@@ -16,6 +16,16 @@
 
 <div align="center">
 
+<a href="https://eze.sh" title="Open eze.sh">
+  <img src="./eze-dots.svg" alt="EZE.SH — click to open portfolio" width="800"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
 ```bash
 root@github:~# cat /proc/skills
 ```
@@ -234,6 +244,20 @@ root@contact:~# cat /var/log/contact.info
 ```
 
 <div align="center">
+
+```log
+[  OK  ] Mounted   /portfolio
+[  OK  ] Started   nginx.service
+[  OK  ] Reached   target  Multi-User System
+[  OK  ] Loaded    crt-phosphor (amber)
+[ INFO ] Listening on https://eze.sh ...
+```
+
+<a href="https://eze.sh">
+  <img src="https://img.shields.io/badge/%E2%96%B6%20VISIT%20PORTFOLIO-eze.sh-FFB000?style=for-the-badge&labelColor=1A1A1A&color=FFB000" height="48" alt="Visit eze.sh"/>
+</a>
+
+<br/><br/>
 
 [![Telegram](https://img.shields.io/badge/Telegram-@eze__matix-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eze_matix)
 [![Email](https://img.shields.io/badge/Email-romangiuzoun@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romangiuzoun@gmail.com)
